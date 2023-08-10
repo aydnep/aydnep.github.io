@@ -1,0 +1,1 @@
+import{bj as a,bk as e}from"./index.8c6e34d8.js";var o=a,c=e,r="[object AsyncFunction]",i="[object Function]",s="[object GeneratorFunction]",b="[object Proxy]";function g(n){if(!c(n))return!1;var t=o(n);return t==i||t==s||t==r||t==b}var j=g;export{j as i};

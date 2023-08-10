@@ -1,0 +1,1 @@
+import{R as o}from"./unifiedFrontend.b9321740.js";const r=(e,t=500)=>{const[u,s]=o.useState(e);return o.useEffect(()=>{const c=setTimeout(()=>{s(e)},t);return()=>{clearTimeout(c)}},[e,t]),u};export{r as u};

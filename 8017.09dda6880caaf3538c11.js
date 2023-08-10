@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_dcentralab_web3_wallet_connector=self.webpackChunk_dcentralab_web3_wallet_connector||[]).push([[8017],{68017:e=>{e.exports=JSON.parse('{"language":"Язык","select_chain":"Выбор сети"}')}}]);

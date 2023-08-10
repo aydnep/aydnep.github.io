@@ -1,0 +1,1 @@
+import{j as s}from"./unifiedFrontend.b9321740.js";import{T as l,x as p,y as r}from"./index.8c6e34d8.js";const i=(e,o,a,t)=>a?`${r(e,2,t)} PORTX`:o?`$${r(e,2,t)}`:r(e,2,t),f=(e,o=!1,a=!1,t=!1)=>s(l,{displayedValue:i(e,o,a,t),tooltipText:p(e)});export{f as c};
